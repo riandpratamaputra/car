@@ -15,3 +15,5 @@ void draw() {
   mover.tampilan();  
   
 }
+
+// loremipsum dolor sit amet
