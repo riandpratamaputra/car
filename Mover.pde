@@ -62,6 +62,9 @@ class Mover {
     (lokasi.y < 0){
     lokasi.y=0;
     }
+    
+    //lorem ipsum dolor sit amet
+    
   
   }   
 }
